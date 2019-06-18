@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009750332247",
+    "firebase_url": "https://elbndarmarket.firebaseio.com",
+    "project_id": "elbndarmarket",
+    "storage_bucket": "elbndarmarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009750332247:android:67af204f2c5c5711",
+        "android_client_info": {
+          "package_name": "com.elbndarmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009750332247-fh3apl4pefne8bdurrlsnhjcjov308rv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elbndarmarket",
+            "certificate_hash": "968bbfc662231c2715b4faed11321feb21b9c9ff"
+          }
+        },
+        {
+          "client_id": "1009750332247-50bmtv5mghvt8oi5pi2ldg664utljd1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDICLMxIsmrHYrozInGBbW05bVIK0HuMXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009750332247-50bmtv5mghvt8oi5pi2ldg664utljd1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
